@@ -68,7 +68,7 @@ export default function BirthdayHero() {
             <WashiTape className="-top-4 left-1/2 -translate-x-1/2" rotate={-4} />
             <div className="relative w-full aspect-[4/5] overflow-hidden bg-cream-dark">
               <Image
-                src="/images/memories/hero-photo.jpg"
+                src="/images/memories/sendiri.jpeg"
                 alt="Foto polaroid dummy — TODO: ganti dengan foto berdua"
                 fill
                 sizes="(max-width: 640px) 240px, 280px"

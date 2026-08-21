@@ -37,7 +37,7 @@ export default function FavoriteSongs() {
         </div>
 
         {/* Tablet/desktop: grid of poster cards */}
-        <div className="w-full hidden sm:grid sm:grid-cols-2 gap-6 place-items-center">
+        <div className="w-full hidden sm:grid sm:grid-cols-1 gap-6 place-items-center">
           {songs.map((song, i) => (
             <ScrollReveal key={song.id} delay={i * 0.08}>
               <SongCard
