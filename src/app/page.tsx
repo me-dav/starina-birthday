@@ -10,14 +10,14 @@ import ClosingMessage from "@/components/ClosingMessage"
 export default function Home() {
   return (
     <>
-      {/* <Navigation /> */}
+      <Navigation />
       <main className="flex-1">
         <BirthdayHero />
-        {/* <FavoriteSongs />
+        <FavoriteSongs />
         <IntroMessage />
         <Timeline />
         <MemoryGallery />
-        <BirthdayLetter /> */}
+        <BirthdayLetter />
         <DinnerInvitation />
       </main>
       <ClosingMessage />
