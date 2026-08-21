@@ -77,15 +77,15 @@ export const siteContent = {
   // TODO: Ganti place, date, time, dresscode, dan mapsUrl sesuai rencana dinner sebenarnya.
   dinner: {
     label: "You're Invited",
-    title: "Dinner Bersama",
+    title: "Fine Dinning",
     message:
       "Sebagai penutup hari ini, aku ingin mengajakmu makan malam berdua. Cuma kita berdua, seperti biasa.",
-    place: "TODO: Isi nama restoran / lokasi",
-    date: "TODO: Isi tanggal dinner",
-    time: "TODO: Isi jam, misal 19.00 WIB",
-    dresscode: "TODO: Isi dresscode, misal Casual Chic",
-    mapsUrl: "https://maps.google.com/?q=Restaurant+Placeholder+Surabaya",
-    qrImage: "/images/dinner-qr.png",
+    place: "PAREA - Urban Eatery, Surabaya",
+    date: "29 Agustus 2026",
+    time: "19.30 WIB",
+    dresscode: "Blue & Cream",
+    mapsUrl: "https://maps.app.goo.gl/rC9QMYA5buRMkEyC9",
+    qrImage: "/images/qr.png",
     rsvpNote: "Cukup datang dengan senyum terbaikmu.",
   },
 

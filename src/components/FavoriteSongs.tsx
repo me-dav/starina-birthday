@@ -23,7 +23,7 @@ export default function FavoriteSongs() {
         </ScrollReveal>
 
         {/* Mobile: horizontal snap-scroll carousel of poster cards */}
-        <div className="w-full flex sm:hidden gap-4 overflow-x-auto snap-x snap-mandatory px-4 -mx-4 pb-2 [scrollbar-width:none] [-ms-overflow-style:none] [&::-webkit-scrollbar]:hidden">
+        <div className="w-full flex sm:hidden gap-4 overflow-x-auto snap-x snap-mandatory justify-center pb-2 [scrollbar-width:none] [-ms-overflow-style:none] [&::-webkit-scrollbar]:hidden">
           {songs.map((song, i) => (
             <ScrollReveal key={song.id} delay={i * 0.06} className="shrink-0 w-[260px]">
               <SongCard

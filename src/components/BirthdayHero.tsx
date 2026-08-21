@@ -48,7 +48,7 @@ export default function BirthdayHero() {
 
           <div className="mt-2">
             <a
-              href="#intro"
+              href="#songs"
               className="group inline-flex items-center gap-2 rounded-full bg-navy text-cream px-7 py-3 font-body text-sm tracking-wide hover:bg-navy-soft transition-colors shadow-[var(--shadow-soft)]"
             >
               {siteContent.hero.ctaLabel}

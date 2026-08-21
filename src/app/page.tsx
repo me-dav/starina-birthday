@@ -13,11 +13,11 @@ export default function Home() {
       <Navigation />
       <main className="flex-1">
         <BirthdayHero />
+        {/* <FavoriteSongs />
         <IntroMessage />
         <Timeline />
         <MemoryGallery />
-        <FavoriteSongs />
-        <BirthdayLetter />
+        <BirthdayLetter /> */}
         <DinnerInvitation />
       </main>
       <ClosingMessage />

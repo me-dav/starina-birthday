@@ -12,13 +12,13 @@ export const timelineItems: TimelineItem[] = [
     date: "28 Juni 2025",
     title: "Hari Spesial Kita",
     description:
-      "ini hari pertama kita resmi pacaran, lucu ya aku nembak kmu dipinggir sungai dan nagsih kmau gelang",
+      "ini hari pertama kita resmi pacaran, lucu ya aku nembak kmu dipinggir sungai dan ngasih kamu gelang",
   },
   {
     date: "6 juni 2026",
     title: "merayakan David",
     description:
-      "Ini waktu ultah akuu, kita dinner di oura dan kmau kasih aku banyak kado, aku seneng bangetttt.",
+      "Ini waktu ultah akuu, kita dinner di oura dan kamu kasih aku banyak kado, aku seneng bangetttt.",
   },
   {
     date: "Hari Ini",
